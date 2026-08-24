@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/btw-itz-saksham/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/btw-itz-saksham/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/btw-itz-saksham/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
