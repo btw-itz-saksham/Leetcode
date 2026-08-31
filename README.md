@@ -18,6 +18,7 @@
 | [0152-maximum-product-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/btw-itz-saksham/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
@@ -52,6 +53,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/btw-itz-saksham/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0283-move-zeroes](https://github.com/btw-itz-saksham/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
