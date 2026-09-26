@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/btw-itz-saksham/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/btw-itz-saksham/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
@@ -64,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/btw-itz-saksham/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
