@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/btw-itz-saksham/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -74,8 +75,10 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/btw-itz-saksham/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 <!---LeetCode Topics End-->
