@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/btw-itz-saksham/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -37,6 +38,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/btw-itz-saksham/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
