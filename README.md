@@ -31,6 +31,7 @@
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/btw-itz-saksham/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/btw-itz-saksham/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -108,4 +109,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/btw-itz-saksham/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/btw-itz-saksham/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
