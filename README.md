@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/btw-itz-saksham/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -64,6 +65,7 @@
 | [0169-majority-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/btw-itz-saksham/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/btw-itz-saksham/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@
 | [0169-majority-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/btw-itz-saksham/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/btw-itz-saksham/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -128,4 +131,8 @@
 | [0125-valid-palindrome](https://github.com/btw-itz-saksham/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/btw-itz-saksham/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/btw-itz-saksham/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
