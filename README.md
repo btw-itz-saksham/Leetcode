@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/btw-itz-saksham/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/btw-itz-saksham/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/btw-itz-saksham/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -71,6 +72,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/btw-itz-saksham/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/btw-itz-saksham/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/btw-itz-saksham/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/btw-itz-saksham/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/btw-itz-saksham/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/btw-itz-saksham/Leetcode/tree/main/0075-sort-colors/) | Medium |
