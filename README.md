@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/btw-itz-saksham/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/btw-itz-saksham/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/btw-itz-saksham/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/btw-itz-saksham/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/btw-itz-saksham/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
@@ -142,6 +144,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/btw-itz-saksham/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
