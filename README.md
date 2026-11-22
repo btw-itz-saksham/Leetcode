@@ -38,6 +38,7 @@
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/btw-itz-saksham/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/btw-itz-saksham/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2022-convert-1d-array-into-2d-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/btw-itz-saksham/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -75,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/btw-itz-saksham/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/btw-itz-saksham/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,12 +168,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 <!---LeetCode Topics End-->
