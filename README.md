@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/btw-itz-saksham/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/btw-itz-saksham/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/btw-itz-saksham/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
@@ -151,4 +152,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/btw-itz-saksham/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/btw-itz-saksham/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/btw-itz-saksham/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
