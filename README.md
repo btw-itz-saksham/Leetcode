@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/btw-itz-saksham/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/btw-itz-saksham/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/btw-itz-saksham/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/btw-itz-saksham/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/btw-itz-saksham/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/btw-itz-saksham/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Hash Table
@@ -160,4 +162,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/btw-itz-saksham/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
