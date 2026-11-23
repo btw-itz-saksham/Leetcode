@@ -42,6 +42,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/btw-itz-saksham/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3575-maximum-good-subtree-score](https://github.com/btw-itz-saksham/Leetcode/tree/main/3575-maximum-good-subtree-score/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/btw-itz-saksham/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/btw-itz-saksham/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/btw-itz-saksham/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [3575-maximum-good-subtree-score](https://github.com/btw-itz-saksham/Leetcode/tree/main/3575-maximum-good-subtree-score/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@
 | [0136-single-number](https://github.com/btw-itz-saksham/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/2527-find-xor-beauty-of-array/) | Medium |
+| [3575-maximum-good-subtree-score](https://github.com/btw-itz-saksham/Leetcode/tree/main/3575-maximum-good-subtree-score/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +172,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/btw-itz-saksham/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [3575-maximum-good-subtree-score](https://github.com/btw-itz-saksham/Leetcode/tree/main/3575-maximum-good-subtree-score/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +187,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [3575-maximum-good-subtree-score](https://github.com/btw-itz-saksham/Leetcode/tree/main/3575-maximum-good-subtree-score/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3575-maximum-good-subtree-score](https://github.com/btw-itz-saksham/Leetcode/tree/main/3575-maximum-good-subtree-score/) | Hard |
 <!---LeetCode Topics End-->
