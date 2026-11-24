@@ -33,6 +33,7 @@
 | [0169-majority-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/btw-itz-saksham/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0336-palindrome-pairs](https://github.com/btw-itz-saksham/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/btw-itz-saksham/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/btw-itz-saksham/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -76,6 +77,7 @@
 | [0169-majority-element](https://github.com/btw-itz-saksham/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/btw-itz-saksham/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/btw-itz-saksham/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0336-palindrome-pairs](https://github.com/btw-itz-saksham/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0645-set-mismatch](https://github.com/btw-itz-saksham/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/btw-itz-saksham/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/btw-itz-saksham/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -148,6 +150,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/btw-itz-saksham/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/btw-itz-saksham/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0336-palindrome-pairs](https://github.com/btw-itz-saksham/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0344-reverse-string](https://github.com/btw-itz-saksham/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/btw-itz-saksham/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Bit Manipulation
@@ -196,4 +199,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3575-maximum-good-subtree-score](https://github.com/btw-itz-saksham/Leetcode/tree/main/3575-maximum-good-subtree-score/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/btw-itz-saksham/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/btw-itz-saksham/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 <!---LeetCode Topics End-->
